@@ -1,0 +1,9 @@
+cryptography
+pdf2image
+pillow
+pyzbar
+qrcode
+base45
+emoji
+cbor2
+cose
