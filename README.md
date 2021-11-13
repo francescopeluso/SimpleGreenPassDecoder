@@ -16,9 +16,9 @@ $ pip3 install -r requirements.txt
 
 ## Execution example
 
-```bash
-## UPDATED TO VERSION 1.0
+As an argument for the execution of the script you can give both an image or a pdf file where the QR code is contained and clearly visible.
 
+```bash
 $ python3 gp_decoder.py /path/of/qr/code
 
 ⌛ Decoding the QR code you gave me...
