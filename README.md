@@ -31,11 +31,9 @@ $ python3 gp_decoder.py /path/of/qr/code
 📅 Expiration date of the certificate: 2022-06-02
 
 ```
-
 ---
-### In case of any bugs....
 
-Please contact me at my [e-mail](mailto:francescopeluso.dev@gmail.com)
+Feel free to help me improve my scripts, by opening issues or making pull requests.
 
 ---
 
