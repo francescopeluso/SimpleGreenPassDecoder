@@ -17,7 +17,7 @@ def print_data(data):
     print()
     print(emoji.emojize(":identification_card:  Unique Certificate ID: " + data['-260']['1']['v'][0]['ci']))
     print(emoji.emojize(":syringe: Number of doses received: " + str(data['-260']['1']['v'][0]['dn']) + " out of " + str(data['-260']['1']['v'][0]['sd'])))
-    print(emoji.emojize(":calendar: Expiration date of the certificate: " + datetime.utcfromtimestamp(int(data['4'])).strftime('%Y-%m-%d')))
+    print(emoji.emojize(":calendar: Expiration date of the QR code (not the certificate): " + datetime.utcfromtimestamp(int(data['4'])).strftime('%Y-%m-%d')))
     print()
 
 if __name__ == '__main__':
