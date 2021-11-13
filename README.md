@@ -1,8 +1,7 @@
 # SimpleGreenPassDecoder
 
-![Version](https://img.shields.io/badge/Version-01.00-brightgreen)
-![Author](https://img.shields.io/badge/Author-Francesco_Peluso-orange)
-![Language](https://img.shields.io/badge/Language-py-blue)
+![Author](https://img.shields.io/badge/Author-francescopeluso-orange?logo=github)
+![Language](https://img.shields.io/badge/Language-py-blue?logo=python)
 
 ## Before installing...
 ...make sure you have all the required dependencies installed.
